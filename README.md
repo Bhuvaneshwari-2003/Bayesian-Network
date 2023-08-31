@@ -83,7 +83,7 @@ ax=plt.gca()
 ax.margins (0.20)
 plt.axis("off")
 plt.show()
-`
+````
 ## Output:
 ![image](https://github.com/Bhuvaneshwari-2003/Bayesian-Network/assets/94828604/475c7ea7-4176-4798-ad02-fedf1c0dfbfa)
 
